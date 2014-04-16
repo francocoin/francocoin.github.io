@@ -1,18 +1,38 @@
 body{
-	font-family: 'Miss Fajardose';
-	background-color: #ED5C56;
+	background-color: #FE2E2E;
 	color: white;
-	font-size: 48px;
+	font-family: 'Helvetica Neue';
 }
 
-h1 {
+.swag {
+	font-family: 'Miss Fajardose';
+	font-size: 64px;
+}
+
+h1.title {
+	font-family: 'Miss Fajardose';
 	font-size: 72px;
+	color: white;
 }
 
-h3
+.descripcion {
+	
+	width: 75%;
+	margin: 0 auto;
+
+}
 
 .white {
 	color: white;
+}
+
+.flag {
+	width: 75%;
+}
+
+.margin_center {
+	margin: 0 auto;
+	text-align: center;
 }
 
 .center {
