@@ -1,0 +1,26 @@
+body{
+	font-family: 'Miss Fajardose';
+	background-color: #ED5C56;
+	color: white;
+	font-size: 48px;
+}
+
+h1 {
+	font-size: 72px;
+}
+
+h3
+
+.white {
+	color: white;
+}
+
+.center {
+	text-align: center;
+}
+
+#mutear {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
